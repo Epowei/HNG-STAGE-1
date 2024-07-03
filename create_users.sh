@@ -117,4 +117,4 @@ done < "$USER_FILE"
 
 log_action "User creation and configuration completed."
 
-echo "User creation and configuration completed. Check $LOG_FILE for details."
+echo "User creation and configuration process complete! Check $LOG_FILE for details."
